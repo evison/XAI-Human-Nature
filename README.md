@@ -1,4 +1,4 @@
-# XAI-Human-Nature
+# Explainable AI: From Human to Nature
 
 ```
 Yongfeng Zhang
